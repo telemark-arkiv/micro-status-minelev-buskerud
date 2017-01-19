@@ -1,0 +1,66 @@
+[
+  {
+    "id": "AIB",
+    "name": "Arbeidsinstituttet Buskerud"
+  },
+  {
+    "id": "KARB",
+    "name": "Papirbredden karrieresenter"
+  },
+  {
+    "id": "KTFS",
+    "name": "Fagskolen Tinius Olsen"
+  },
+  {
+    "id": "DMVS",
+    "name": "Drammen vgs"
+  },
+  {
+    "id": "EIVS",
+    "name": "Eiker vgs"
+  },
+  {
+    "id": "GOVS",
+    "name": "Gol vgs"
+  },
+  {
+    "id": "HOVS",
+    "name": "Hønefoss vgs"
+  },
+  {
+    "id": "KOVS",
+    "name": "Kongsberg vgs"
+  },
+  {
+    "id": "LIVS",
+    "name": "Lier vgs"
+  },
+  {
+    "id": "NUVS",
+    "name": "Numedal vgs"
+  },
+  {
+    "id": "RIVS",
+    "name": "Ringerike vgs"
+  },
+  {
+    "id": "ROVS",
+    "name": "Rosthaug vgs"
+  },
+  {
+    "id": "RYVS",
+    "name": "Røyken vgs"
+  },
+  {
+    "id": "SHVS",
+    "name": "St. Hallvard vgs"
+  },
+  {
+    "id": "ALVS",
+    "name": "Ål vgs"
+  },
+  {
+    "id": "ASVS",
+    "name": "Åssiden vgs"
+  }
+]
